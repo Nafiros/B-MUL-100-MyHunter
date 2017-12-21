@@ -3,7 +3,7 @@ A simple Duck Hunt Legacy remake
 
 This is the first graphical epitech project.
 
-C porject you can build it easily with make;
+C project, you can build it easily with make;
 Just run make command and lunch ./my_hunter to play
 
 DEPENDENCIES:
